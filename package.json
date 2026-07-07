@@ -1,0 +1,15 @@
+{
+  "name": "academia-site",
+  "version": "1.0.0",
+  "description": "Site institucional para academia fictícia. Projeto de estudo com foco em estrutura profissional.",
+  "author": "Rodrigo P. Barros <github.com/RodrigoPBarros>",
+  "license": "MIT",
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "frontend",
+    "landing-page"
+  ],
+  "homepage": "https://rodrigopbarros.github.io/academia-site"
+}
