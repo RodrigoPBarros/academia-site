@@ -147,8 +147,8 @@ main {
 .hero {
     max-width: 1100px;
     margin: 0 auto;
-    padding: 100px 60px;
-    min-height: 100vh;
+    padding: 0 60px;
+    height: calc(100vh - 160px);
     display: flex;
     justify-content: space-between;
     align-items: center;
