@@ -1,10 +1,10 @@
-# Iron Forge | Academia
+**# Iron Forge | Academia
 
 Site institucional fictício desenvolvido como projeto de estudo com foco em estrutura profissional e boas práticas de front-end.
 
 ## ✦ Acesse
 
-[rodrigopbarros.github.io/academia-site](https://rodrigopbarros.github.io/academia-site)
+[rodrigopbarros.github.io/academia-site](https://rodrigopbarros.github.io/academia-site/)
 
 ## ✦ Sobre o projeto
 
@@ -49,4 +49,4 @@ academia-site/
 
 **Rodrigo P. Barros** — estudante de Ciência da Computação e desenvolvedor front-end autodidata.
 
-[GitHub](https://github.com/RodrigoPBarros)
+[GitHub](https://github.com/RodrigoPBarros)**
